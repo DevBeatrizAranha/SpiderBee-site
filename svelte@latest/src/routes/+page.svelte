@@ -7,5 +7,5 @@
     <h1> Preparando Site</h1>
 </div>
 <footer  style="display:flex;justify-content: center;align-content: flex-end;align-items: flex-end;">
-    <h6>Todos os direitos reservados. SpiderBee Game Studio © 2025</h6>
+    <h6>Todos os direitos reservados. SpiderBee Game Studio ® 2025</h6>
 </footer>
